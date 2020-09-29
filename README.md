@@ -36,6 +36,8 @@ For an instance, questions like - *"What is your name?"* is easily recognizable 
 But if the question is of echo type - *"Your name is abc?"*, then in this case the current systems will classify it as a normal sentence. 
 But our model will classify these types also as *"Questions"* only unlike the current systems.
 
+Report [[LINK]](takter,hmahtta,knayem_automatic-question-detection.pdf).
+
 Full dataset is available on request. [[LINK]](https://drive.google.com/drive/folders/12PGLvr0aFcX1ou5k1b__lReLumkbrICa?usp=sharing)
 
 &nbsp;
